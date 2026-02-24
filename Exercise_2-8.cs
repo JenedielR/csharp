@@ -1,5 +1,4 @@
-
-/ Eggs.cs
+// Eggs.cs
 
 using System;
 using static System.Console;
