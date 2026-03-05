@@ -33,7 +33,7 @@ class Hurricane
     }
 
     else {
-      WriteLine("This is not a hurricane.")
+      WriteLine("This is not a hurricane.");
     }
   }
 }
